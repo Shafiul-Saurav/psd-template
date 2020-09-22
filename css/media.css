@@ -1,0 +1,715 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+.wrapper{
+	margin: 0 25px;
+}
+
+/*header start*/
+h1 {
+    font-size: 26px;
+    margin-bottom: 20px;
+    line-height: 36px;
+}
+p {
+    line-height: 20px;
+    margin-bottom: 36px;
+}
+/*navigation start*/
+.luxe_logo{
+  width: 100px;
+}
+/*navbar start*/
+#mainNav ul li a {
+  margin: 6px 0px 6px 0px;   
+}
+
+/*navbar start*/
+/*navigation start*/
+/*header end*/
+/*banner_section start*/
+.wrapper_banner{
+  padding: 50px 0 0 0;
+}
+.banner_content h5{
+  font-size: 36px;
+  margin-bottom: 36px;
+  text-align: center;
+}
+.search_button{
+  width: 70%;
+ margin-left: 15px;
+}
+.form_control_s {
+    padding: 23px 20px 23px 50px;
+}
+.btn_customs {
+    padding: 12px 30px;
+}
+.address {
+    padding: 15px 5px 0 5px;
+}
+.address ul li{
+  margin: 0px;
+}
+.third_child{
+  margin-left: 5px !important;
+}
+.address ul li a{
+  font-size: 13px;
+}
+/*banner_section end*/
+/*company start*/
+.company_section{
+  padding: 40px 0;
+}
+.counter_up h2{
+  font-size: 28px;
+}
+/*company end*/
+/*appartment start*/
+.appartment_section{
+  padding: 40px 0;
+}
+.price_tag h6{
+  font-size: 18px;
+  margin-bottom: 18px;
+}
+.btn_view{
+  width: 100%;
+  padding: 10px 32px;
+  text-align: center;
+}
+/*appartment end*/
+/*work start*/
+.work_section{
+  padding: 40px 0;
+}
+.work_card{
+  padding: 0 30px 50px 30px;
+}
+.work_card h5 {
+    font-size: 80px;
+}
+/*work end*/
+/*isotope start*/
+.isotope_section{
+  margin: 40px 0;
+}
+ul.filters{
+   margin-bottom: 30px;
+}
+ul.filters > li > a{
+    font-size: 14px;
+    padding: 5px 14px;
+    border: 2px solid #ffcc01;
+}
+.card_overlay {
+    padding: 25px !important;
+}
+.card_overlay h3{
+    font-size: 18px;
+}
+.card_overlay p {
+    margin: 20px 0;
+}
+.card_overlay .btn_card{
+    font-size: 14px;
+    padding: 8px 30px;
+}
+/*isotope end*/
+/*service start*/
+.service_section{
+  margin: 40px 0;
+}
+.service_type{
+  margin-bottom: 20px;
+}
+.service_type h2{
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+/*service end*/
+/*agent start*/
+.agent_section{
+  padding: 40px 0;
+}
+.profile_name h6{
+  font-size: 14px;
+}
+.agent_social ul li {
+    margin-left: 5px;
+}
+/*agent end*/
+/*awesome start*/
+.awesome_section{
+  padding: 40px 0;
+}
+.awesome_container{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.awesome_text_area{
+	margin-top: 50px;
+}
+.awesome_address {
+    width: 80%;
+    padding: 15px 30px;
+    bottom: -9%;
+    left: 10%;
+}
+.btn_show_me{
+  margin-top: 30px;
+}
+/*awesome end*/
+/*footer start*/
+.footer_section{
+  padding: 40px 0;
+}
+.footer_container{
+  margin-top: 30px;
+}
+.footer_bottom{
+	text-align: center;
+}
+.footer_bottom h2{
+ font-size: 18px;
+  margin-bottom: 40px;
+}
+.footer_list ul li{
+  margin-bottom: 14px;
+  text-align: center;
+}
+.footer_list ul li:first-child{
+  margin-bottom: 20px !important;
+  margin-top: 20px !important;
+}
+/*footer end*/
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    line-height: 36px;
+}
+p {
+    line-height: 20px;
+    margin-bottom: 36px;
+}
+/*navigation start*/
+/*navbar start*/
+#mainNav ul li a {
+  margin: 6px 0px 6px 0px;   
+}
+
+/*navbar start*/
+/*navigation start*/
+/*header end*/	
+/*banner_section start*/
+.wrapper_banner{
+  padding: 60px 0 0 0;
+  background-position: left;
+}
+.banner_content h5{
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.search_button{
+  width: 50%;
+}
+.form_control_s {
+    padding: 23px 20px 23px 50px;
+}
+.btn_customs {
+    padding: 12px 30px;
+}
+.address {
+    padding: 15px 11px 0 11px;
+}
+.address ul li{
+  margin: 0px;
+}
+.third_child{
+  margin-left: 10px !important;
+}
+.address ul li a{
+  font-size: 14px;
+}
+/*banner_section end*/
+/*company start*/
+.company_section{
+  padding: 50px 0;
+}
+.counter_up h2{
+  font-size: 30px;
+}
+/*company end*/
+/*appartment start*/
+.appartment_section{
+  padding: 50px 0;
+}
+.price_tag h6{
+  font-size: 18px;
+  margin-bottom: 18px;
+}
+.btn_view{
+  width: 100%;
+  padding: 10px 32px;
+  text-align: center;
+}
+/*appartment end*/
+/*work start*/
+.work_section{
+  padding: 50px 0;
+}
+.work_card{
+  padding: 0 30px 50px 30px;
+}
+.work_card h5 {
+    font-size: 100px;
+}
+/*work end*/
+/*isotope start*/
+.isotope_section{
+  margin: 50px 0;
+}
+ul.filters{
+   margin-bottom: 40px;
+}
+ul.filters > li > a{
+    font-size: 14px;
+    padding: 6px 16px;
+    border: 2px solid #ffcc01;
+}
+.card_overlay {
+    padding: 25px !important;
+}
+.card_overlay h3{
+    font-size: 18px;
+}
+.card_overlay p {
+    margin: 20px 0;
+}
+.card_overlay .btn_card{
+    font-size: 14px;
+    padding: 8px 30px;
+}
+/*isotope end*/
+/*service start*/
+.service_section{
+  margin: 50px 0;
+}
+.service_type{
+  margin-bottom: 20px;
+}
+.service_type h2{
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+/*service end*/
+/*agent start*/
+.agent_section{
+  padding: 50px 0;
+}
+.profile_name h6{
+  font-size: 14px;
+}
+.agent_social ul li {
+    margin-left: 5px;
+}
+/*agent end*/
+/*awesome start*/
+.awesome_section{
+  padding: 50px 0;
+}
+.awesome_container{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.awesome_text_area{
+	margin-top: 50px;
+}
+.awesome_address {
+    width: 70%;
+    padding: 15px 30px;
+    bottom: -9%;
+    left: 15%;
+}
+.btn_show_me{
+  margin-top: 30px;
+}
+/*awesome end*/
+/*footer start*/
+.footer_section{
+  padding: 50px 0;
+}
+.footer_container{
+  margin-top: 40px;
+}
+.footer_bottom{
+	text-align: center;
+}
+.footer_bottom h2{
+ font-size: 18px;
+  margin-bottom: 40px;
+}
+.footer_list ul li{
+  margin-bottom: 18px;
+  text-align: center;
+}
+.footer_list ul li:first-child{
+  margin-bottom: 20px !important;
+  margin-top: 20px !important;
+}
+/*footer end*/
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+h1 {
+    font-size: 32px;
+    margin-bottom: 24px;
+    line-height: 40px;
+}
+p {
+    line-height: 22px;
+    margin-bottom: 40px;
+}
+/*navigation start*/
+/*navbar start*/
+#mainNav ul li a {
+  margin: 10px 0px 10px 0px;   
+}
+
+/*navbar start*/
+/*navigation start*/
+/*header end*/
+
+/*banner_section start*/
+.wrapper_banner{
+  padding: 80px 0 0 0;
+  background-position: left;
+}
+.banner_content h5{
+  font-size: 44px;
+  margin-bottom: 40px;
+}
+.search_button{
+  width: 75%;
+}
+.form_control_s {
+    padding: 23px 20px 23px 50px;
+}
+.btn_customs {
+    padding: 12px 30px;
+}
+.address {
+    padding: 15px 11px 0 11px;
+}
+.address ul li{
+  margin: 0px;
+}
+.third_child{
+  margin-left: 10px !important;
+}
+.address ul li a{
+  font-size: 14px;
+}
+/*banner_section end*/
+/*company start*/
+.company_section{
+  padding: 70px 0;
+}
+.counter_up{
+  padding: 35px;
+}
+.counter_up h2{
+  font-size: 32px;
+}
+/*company end*/
+/*appartment start*/
+.appartment_section{
+  padding: 70px 0;
+}
+.price_tag h6{
+  font-size: 18px;
+  margin-bottom: 18px;
+}
+.btn_view{
+  width: 100%;
+  padding: 10px 32px;
+  text-align: center;
+}
+/*appartment end*/
+/*work start*/
+.work_section{
+  padding: 70px 0;
+}
+.work_card{
+  padding: 0 30px 50px 30px;
+}
+.work_card h5 {
+    font-size: 120px;
+}
+/*work end*/
+/*isotope start*/
+.isotope_section{
+  margin: 70px 0;
+}
+ul.filters{
+   margin-bottom: 60px;
+}
+ul.filters > li > a{
+    font-size: 16px;
+    padding: 8px 20px;
+    border: 2px solid #ffcc01;
+}
+.card_overlay {
+    padding: 25px !important;
+}
+.card_overlay h3{
+    font-size: 18px;
+}
+.card_overlay p {
+    margin: 20px 0;
+}
+.card_overlay .btn_card{
+    font-size: 14px;
+    padding: 8px 30px;
+}
+/*isotope end*/
+/*service start*/
+.service_section{
+  margin: 70px 0;
+}
+.service_type{
+  margin-bottom: 24px;
+}
+.service_type h2{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+/*service end*/
+/*agent start*/
+.agent_section{
+  padding: 70px 0;
+}
+.profile_name h6{
+  font-size: 14px;
+}
+.agent_social ul li {
+    margin-left: 5px;
+}
+/*agent end*/
+/*awesome start*/
+.awesome_section{
+  padding: 70px 0;
+}
+.awesome_container{
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.awesome_address {
+    width: 70%;
+    padding: 15px 30px;
+    bottom: -9%;
+    left: 15%;
+}
+.btn_show_me{
+  margin-top: 30px;
+}
+/*awesome end*/
+/*footer start*/
+.footer_section{
+  padding: 70px 0;
+}
+.footer_container{
+  margin-top: 50px;
+}
+.footer_bottom h2{
+ font-size: 20px;
+  margin-bottom: 40px;
+}
+.footer_list ul li{
+  margin-bottom: 18px;
+}
+.footer_list ul li:first-child{
+  margin-bottom: 30px !important;
+}
+/*footer end*/
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+h1 {
+    font-size: 36px;
+    margin-bottom: 28px;
+    line-height: 44px;
+}
+p {
+    line-height: 26px;
+    margin-bottom: 50px;
+}
+/*navigation start*/
+/*navbar start*/
+#mainNav ul li a {
+  margin: 10px 0px 10px 0px;   
+}
+
+/*navbar start*/
+/*navigation start*/
+/*header end*/
+
+/*banner_section start*/
+.wrapper_banner{
+  padding: 100px 0 0 0;
+}
+.banner_content h5{
+  font-size: 48px;
+}
+.address {
+    padding: 20px 24px 0 24px;
+}
+.address ul li{
+  margin: 0 4px;
+}
+.third_child{
+  margin-left: 25px !important;
+}
+.address ul li a{
+  font-size: 16px;
+}
+/*banner_section end*/
+/*company start*/
+.company_section{
+  padding: 90px 0;
+}
+.counter_up{
+  padding: 40px;
+}
+.counter_up h2{
+  font-size: 36px;
+}
+/*company end*/
+/*appartment start*/
+.appartment_section{
+  padding: 90px 0;
+}
+.price_tag h6{
+  font-size: 18px;
+  margin-bottom: 18px;
+}
+.btn_view{
+  font-size: 14px;
+  padding: 14px 32px;
+}
+/*appartment end*/
+/*work start*/
+.work_section{
+  padding: 90px 0;
+}
+.work_card{
+  padding: 0 30px 50px 30px;
+}
+.work_card h5 {
+    font-size: 140px;
+}
+/*work end*/
+/*isotope start*/
+.isotope_section{
+  margin: 90px 0;
+}
+ul.filters{
+   margin-bottom: 80px;
+}
+ul.filters > li > a{
+    font-size: 18px;
+    padding: 8px 24px;
+    border: 2px solid #ffcc01;
+}
+.card_overlay {
+    padding: 25px !important;
+}
+.card_overlay h3{
+    font-size: 18px;
+}
+.card_overlay p {
+    margin: 20px 0;
+}
+.card_overlay .btn_card{
+    font-size: 14px;
+    padding: 8px 30px;
+}
+/*isotope end*/
+/*service start*/
+.service_section{
+  margin: 90px 0;
+}
+.service p{
+	margin-bottom: 0;
+}
+.service_type{
+  margin-bottom: 28px;
+}
+.service_type h2{
+  font-size: 23px;
+  margin-bottom: 10px;
+}
+/*service end*/
+/*agent start*/
+.agent_section{
+  padding: 90px 0;
+}
+.profile_name h6{
+  font-size: 14px;
+}
+.agent_social ul li {
+    margin-left: 5px;
+}
+/*agent end*/
+/*awesome start*/
+.awesome_section{
+  padding: 90px 0;
+}
+.awesome_container{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.awesome_address {
+    width: 60%;
+    padding: 15px 30px;
+}
+.btn_show_me{
+  margin-top: 30px;
+}
+/*awesome end*/
+/*footer start*/
+.footer_section{
+  padding: 90px 0;
+}
+.footer_container{
+  margin-top: 70px;
+}
+.footer_bottom h2{
+ font-size: 22px;
+  margin-bottom: 50px;
+}
+.footer_list ul li{
+  margin-bottom: 18px;
+}
+.footer_list ul li:first-child{
+  margin-bottom: 36px !important;
+}
+/*footer end*/
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+	
+}
